@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hk-indo.github.io/sitemap.xml
